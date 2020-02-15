@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "Initial",
+    "Number": 100000000,
+    "Money": 0,
+    "ClientId": 0
+  },
+  {
+    "Id": 2,
+    "Name": "Alif",
+    "Number": 100000001,
+    "Money": 0,
+    "ClientId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Alif",
+    "Number": 100000002,
+    "Money": 100,
+    "ClientId": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Humo",
+    "Number": 100000003,
+    "Money": 0,
+    "ClientId": 1
+  },
+  {
+    "Id": 5,
+    "Name": "Humo",
+    "Number": 100000004,
+    "Money": 200,
+    "ClientId": 2
+  }
+]
